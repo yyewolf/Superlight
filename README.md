@@ -15,4 +15,4 @@ go build
 
 ## Tuya API Key
 
-You will also need a Tuya IOT account, here's [the setup I followed to get it working](https://github.com/codetheweb/tuyapi/blob/master/docs/SETUP.md).
+You will also need a Tuya IOT account, here's [the setup](https://github.com/codetheweb/tuyapi/blob/master/docs/SETUP.md) I followed to get it working.
